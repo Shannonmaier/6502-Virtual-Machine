@@ -1,6 +1,6 @@
 
 ## MY DEVELOPMENT OF A 6502 PROCESSOR
-- Virtual 6502 processor written in TypeScript and running on server-side Javascript using Node.js.  This project is the practical component of my Computer Organization and Architecture class.  This project strives to accomplish the following goals:
+- Virtual 6502 processor written in TypeScript and running on server-side Javascript using Node.js.  This project is the practical component of my Computer Organization and Architecture class.  
 - Developed a deep understanding of how the machine works. There is no better way to learn how computers actually work than to build one!
 - Learned how to write and implement machine instructions to run on my processor.
 
